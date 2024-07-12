@@ -13,3 +13,10 @@ Here are some of the resources I'm using for my Python learning journey:
 - Official Python Documentation
 - Python.org
 - W3Schools Python Tutorial
+  ## Contact
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out!
+
+- **Email**: prathameshaj2004@gmail.com
+- **LinkedIn**: www.linkedin.com/in/prathamesh-jadhav30
+- Thank you for visiting my repository. Happy coding!
