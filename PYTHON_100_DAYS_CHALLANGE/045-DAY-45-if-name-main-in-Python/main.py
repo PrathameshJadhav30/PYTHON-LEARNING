@@ -1,0 +1,3 @@
+import prathamesh
+
+prathamesh.welcome()
